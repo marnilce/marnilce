@@ -81,7 +81,7 @@ Leading BI analytics for a major streaming platform, designing data models, ETL 
 
 ## Languages
 
-🇧🇷 Portuguese (Native) | 🇪🇸 Spanish (Native) | 🇬🇧 English (Professional)
+🇧🇷 Portuguese (Native) | 🇪🇸 Spanish (Advanced) | 🇬🇧 English (Professional)
 
 ---
 
